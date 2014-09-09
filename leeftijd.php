@@ -16,7 +16,7 @@
   	echo "Je mag auto rijden";
 
 	} elseif ($leeftijd>=21){
-  	echo "Je mag alles doen";
+  	echo "Je mag niks doen";
 	}
 
 
